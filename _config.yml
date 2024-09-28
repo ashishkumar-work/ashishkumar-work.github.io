@@ -27,3 +27,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+owner : "rootie-hacker"
+year : "2024"
