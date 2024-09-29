@@ -1,4 +1,4 @@
-title: Ashish's Blog
+title: Halower
 description: "A place for relax"
 author:
   name: "Rootie"
@@ -27,5 +27,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-owner : "rootie-hacker"
+owner : "Ashish"
 year : "2024"
