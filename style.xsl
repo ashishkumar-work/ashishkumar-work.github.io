@@ -7,7 +7,7 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>Rendered Image</title>
+                <title>RSS Page</title>
                 <style>
                     body {
                         font-family: Arial, sans-serif;
