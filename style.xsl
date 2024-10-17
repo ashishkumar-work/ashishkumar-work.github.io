@@ -18,6 +18,10 @@
                         padding: 10px;
                         max-width: 300px;
                     }
+                    img {
+                        max-width: 100%;
+                        height: auto;
+                    }
                 </style>
             </head>
             <body>
