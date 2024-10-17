@@ -27,7 +27,7 @@
             <body>
                 <h1>Abhki baar 400 par</h1>
                 <div class="image-box">
-                    <img src="{data/image}" alt="Image from XML" />
+                    <img src="{data/image}" alt="Abhki baar 400 par" />
                 </div>
             </body>
         </html>
