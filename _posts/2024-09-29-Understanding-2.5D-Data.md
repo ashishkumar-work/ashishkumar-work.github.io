@@ -1,9 +1,9 @@
 ---
-title: Test Post
+title: Understanding 2.5D Data For Medical Imaging
 published: true
 ---
 
-<h1>THIS IS A TEST POST</h1>
+<h1>Likh rha hun abhi poora post nhi likha hai...will be posting soon</h1>
 <h2>THIS IS A TEST POST</h2>
 <h3>THIS IS A TEST POST</h3>
 <text>THIS IS A TEST POST</text>
