@@ -25,7 +25,7 @@
                 </style>
             </head>
             <body>
-                <h1>Image from XML</h1>
+                <h1>Abhki baar 400 par</h1>
                 <div class="image-box">
                     <img src="{data/image}" alt="Image from XML" />
                 </div>
