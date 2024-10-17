@@ -7,7 +7,7 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>Image Data</title>
+                <title>Rendered Image</title>
                 <style>
                     body {
                         font-family: Arial, sans-serif;
@@ -17,14 +17,13 @@
                         border: 2px solid #333;
                         padding: 10px;
                         max-width: 300px;
-                        word-wrap: break-word;
                     }
                 </style>
             </head>
             <body>
-                <h1>Base64 Image Data</h1>
+                <h1>Image from XML</h1>
                 <div class="image-box">
-                    <p>Image Data: <xsl:value-of select="data/image"/></p>
+                    <img src="{data/image}" alt="Image from XML" />
                 </div>
             </body>
         </html>
